@@ -9,9 +9,9 @@ public class Main {
     public static void main(String[] args) {
         Customer customer = new Customer(
                 "farouk",
-                "farouk@gmail.com",
+                "faroukarogundade@gmail.com",
                 "+0679845697754",
-                LocalDate.of(2015, 1,1)
+                LocalDate.of(2016, 1,1)
         );
 
 //        System.out.println(new CustomerValidatorService().isValid(customer));
